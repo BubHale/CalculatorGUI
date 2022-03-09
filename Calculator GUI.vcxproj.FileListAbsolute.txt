@@ -1,0 +1,3 @@
+C:\Users\wizar\Desktop\Personal Projects\Calculator GUI\Calculator GUI\Debug\Calculator GUI.vcxproj.AssemblyReference.cache
+C:\Users\wizar\Desktop\Personal Projects\Calculator GUI\Calculator GUI\Debug\CalculatorGUI.MyForm.resources
+C:\Users\wizar\Desktop\Personal Projects\Calculator GUI\Calculator GUI\Debug\Calculator GUI.vcxproj.GenerateResource.cache

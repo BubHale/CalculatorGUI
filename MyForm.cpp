@@ -1,0 +1,18 @@
+#include "MyForm.h"
+
+
+using namespace System;
+using namespace System::Windows::Forms;
+
+//[Stathread]
+
+void main(array<String^>^ args) {
+	Application::EnableVisualStyles();
+
+	Application::SetCompatibleTextRenderingDefault(false);
+
+	CalculatorGUI::MyForm form;
+
+	Application::Run(% form);
+
+}
